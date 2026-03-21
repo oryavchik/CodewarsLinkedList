@@ -1,9 +1,5 @@
 """Parse a linked list from a string"""
-class Node:
-    """Preloaded class"""
-    def __init__(self, data, next=None):
-        self.data = data
-        self.next = next
+from preloaded import Node
 
 def linked_list_from_string(string):
     """Function"""
