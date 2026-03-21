@@ -1,4 +1,4 @@
-"""Convert a linked list to a string"""
+"""Convert a linked list to a string."""
 def stringify(node):
     """Function"""
     result = []
